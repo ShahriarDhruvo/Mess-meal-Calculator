@@ -1,0 +1,11 @@
+This Program made by :
+
+Name		:Shahriar Elahi Dhruvo
+Session		:2017-18
+Department	:SWE
+
+This is a program to calculate a mess's meal cost, meal rate and all other things ...............
+
+Instruction :
+
+This program is self explanatory, for terminate the Bazar number in bazar list you have to give 0 as an input and it'll do rest of the calculation :)
